@@ -1,1 +1,1 @@
-# fsociety (FSC) coin bootstrap
+# FSOCIETY (FSC) coin bootstrap
